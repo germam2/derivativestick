@@ -1,2 +1,3 @@
-# integralstick
+# DERIVATIVESTICK
 STM32F7 + Artix-7 SoM
+(Based on INTEGRALSTICK by A. Zonenberg)
